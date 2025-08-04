@@ -1,4 +1,4 @@
-# Analyzing User Engagement to Drive Restaurant Success
+# User Engagement Drives Restaurant Success
 
 ## About Yelp
 
